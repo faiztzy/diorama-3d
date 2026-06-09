@@ -1,5 +1,13 @@
 # 🏠 Diorama Interior Ruangan 3D Interaktif
 
+![Diorama 3D](<img width="1912" height="947" alt="screenshot" src="https://github.com/user-attachments/assets/cb676002-254a-4682-adfb-b9fd0e466106" />)
+
+## 🌐 Live Demo
+
+- GitHub Pages : https://faiztzy.github.io/diorama-3d/
+- Vercel : 
+https://diorama-3d-theta.vercel.app/
+
 Proyek ini merupakan simulasi **Diorama Ruangan 3D Interaktif** yang dikembangkan menggunakan **HTML5, CSS3, JavaScript, dan Three.js** sebagai implementasi konsep dasar Grafika Komputer. Aplikasi menampilkan lingkungan ruangan tiga dimensi yang dapat dieksplorasi pengguna melalui kontrol kamera interaktif.
 
 ## ✨ Fitur Utama
