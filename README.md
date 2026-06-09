@@ -1,10 +1,11 @@
 # 🏠 Diorama Interior Ruangan 3D Interaktif
 
-![Diorama 3D](<img width="1912" height="947" alt="screenshot" src="https://github.com/user-attachments/assets/cb676002-254a-4682-adfb-b9fd0e466106" />)
+![Diorama 3D](screenshot.png)
 
 ## 🌐 Live Demo
 
-- GitHub Pages : https://faiztzy.github.io/diorama-3d/
+- GitHub Pages : 
+https://faiztzy.github.io/diorama-3d/
 - Vercel : 
 https://diorama-3d-theta.vercel.app/
 
@@ -40,6 +41,7 @@ diorama-3d/
 ├── js/
 │   └── script.js
 └── README.md
+    screenshot.png
 ```
 
 ## 🚀 Cara Menjalankan
