@@ -24,7 +24,7 @@ Proyek ini merupakan simulasi **Diorama Ruangan 3D Interaktif** yang dikembangka
 ## 📂 Struktur Proyek
 
 ```
-diorama/
+diorama-3d/
 │
 ├── index.html
 ├── css/
@@ -58,7 +58,9 @@ cd diorama-3d
 Website dapat diakses melalui:
 
 * GitHub Pages
+  https://faiztzy.github.io/diorama-3d/
 * Vercel
+  https://diorama-3d-theta.vercel.app/
 
 ## 📚 Konsep Grafika Komputer yang Diimplementasikan
 
